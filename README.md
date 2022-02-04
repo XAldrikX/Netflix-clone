@@ -1,3 +1,3 @@
 # Netflix clone
 
-Link do deployment -->
+Link do deployment --> https://xaldrikx.github.io/Netflix-clone/
